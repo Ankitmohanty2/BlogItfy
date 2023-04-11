@@ -1,4 +1,4 @@
-https://myblogify.netlify.app/
+https://blog-itfy-ankittap2001.vercel.app/
 
 
 
